@@ -1,0 +1,171 @@
+							
+	Kapitel Finanzen: Hilfe zum Ausfüllen des Fragebogens						
+							
+	"Basis für Finanzvariablen ist die Erfolgsrechnung (Betriebsrechnung, Gewinn- und Verlustrechnung, etc.) des Unternehmens für das jeweilige Referenzjahr. 
+Aktivitäten, die im Mandat zum Beispiel gegenüber einer AG erbracht und als Honorar abgegolten werden, gehören ebenfalls zur Betriebsrechnung des Unternehmens (typischerweise einem Einzelunternehmen) und sind entsprechend unter dem Ertrag anzugeben.
+Die Finanzvariablen von Einzelunternehmen werden konsequent von denjenigen der restlichen Rechtsformen wie AG oder GmbH getrennt, weil die Finanzvariablen unterschiedlich definiert sind und deshalb die ""ERGEBNISSE"" nicht vergleichbar sind."						
+							
+	Für alle Finanzvariablen gilt:						
+	CHF						
+	Das Ergebnis kann negativ sein (wird aber berechnet).						
+	Summen sind so dimensioniert, dass die zugehörigen Unterpositionen in jedem Fall addiert werden können.						
+							
+	"Unterschied zwischen unbekanntem Wert und Nullwert (0 Franken) (betrifft die detaillierten Kontopositionen):
+- Unbekannter Wert: Ist die Kontoposition nicht bekannt (z.B. Sachaufwand für Labormaterial, Sachaufwand für Mittel und Gegenstände), das Feld leer lassen (nicht 0 Franken eintragen).
+- Bekannter Wert: Ist die Kontoposition bekannt (z.B. Sachaufwand für Medikamente, übriger Materialaufwand), den entsprechenden Betrag eintragen (kann auch 0 Franken sein). 
+Beim Total muss immer ein Wert eingetragen werden (z.B. Total Personalaufwand, Total Ertrag aus Praxistätigkeit)."						
+							
+	Beispiel:						
+							
+							
+							
+	EINZELUNTERNEHMEN			"ANDERE RECHTSFORMEN 
+(nicht Einzelunternehmen)"			
+							
+	AUFWAND (aus Erfolgsrechnung)			AUFWAND (aus Erfolgsrechnung)	aus Erfolgsrechnung		
+							
+	Personalaufwand	Entschädigungen des Praxisinhabers sind nicht im Personalaufwand aufzuführen.		Personalaufwand			
+	Lohnaufwand angestellte Ärztinnen/Ärzte (ohne Inhaber/in der Arztpraxis)			Lohnaufwand Ärztinnen/Ärzte			
+	Lohnaufwand nichtärztliche Gesundheitsfachkräfte	Nichtärztliche Gesundheitsfachkräfte: Medizinische Praxisassistenz, Pflege (inkl. Spezialisierung), Diagnostik (Labor, Radiologie usw.), Operationstechnik, Physiotherapie, nichtärztliche Psychotherapie, sonstiges nichtärztliche Gesundheitsfachpersonen		Lohnaufwand nichtärztliche Gesundheitsfachkfräfte	Nichtärztliche Gesundheitsfachkräfte: Medizinische Praxisassistenz, Pflege (inkl. Spezialisierung), Diagnostik (Labor, Radiologie usw.), Operationstechnik, Physiotherapie, nichtärztliche Psychotherapie, sonstiges nichtärztliche Gesundheitsfachpersonen		
+	Lohnaufwand übriges Personal	Übriges Personal: kaufmännische Leitung und Administration, Ökonomie und Raumpflege, Informatik, sonstige weitere Personen.		Lohnaufwand übriges Personal	Übriges Personal: kaufmännische Leitung und Administration, Ökonomie und Raumpflege, Informatik, sonstige weitere Personen.		
+	Sozialleistungen und berufliche Vorsorge (angestelltes Personal)	Sozialleistungen (AHV / ALV / IV / EO / FAK), BVG.		Sozialleistungen und berufliche Vorsorge	Sozialleistungen (AHV / ALV / IV / EO / FAK), BVG.		
+	Einkauf ärztlicher Leistungen	Ausgaben für externes ärztliches Personal: Insbesondere auf Honorarbasis oder auch über einen Personalverleih. AHV wird nicht durch Unternehmen bezahlt.		Einkauf ärztlicher Leistungen	Ausgaben für externes ärztliches Personal: Insbesondere auf Honorarbasis oder auch über einen Personalverleih. AHV wird nicht durch Unternehmen bezahlt.		
+	Übriger Personalaufwand	Zum Beispiel Ausgaben wie Betriebsanlässe, Geschenke, Bonus, aber auch externes Personal ausser Ärzte. AHV wird nicht durch Unternehmen bezahlt.		Übriger Personalaufwand	Zum Beispiel Ausgaben wie Betriebsanlässe, Geschenke, Bonus, aber auch externes Personal ausser Ärzte. AHV wird nicht durch Unternehmen bezahlt.		
+	TOTAL PERSONALAUFWAND			TOTAL PERSONALAUFWAND			
+							
+	Sachaufwand für medizinische Tätigkeiten			Sachaufwand für medizinische Tätigkeiten			
+	Medikamente	Aufwand für Medikamente. Neben Kosten für Einkauf auch Kosten für Praxisapotheke, Liefer- bzw. Versandkosten usw.		Medikamente	Aufwand für Medikamente. Neben Kosten für Einkauf auch Kosten für Praxisapotheke, Liefer- bzw. Versandkosten usw.		
+	Labormaterial			Labormaterial			
+	Mittel und Gegenstände			Mittel und Gegenstände			
+	Übriger Materialaufwand			Übriger Materialaufwand			
+	TOTAL SACHAUFWAND FÜR MEDIZINISCHE TÄTIGKEITEN			TOTAL SACHAUFWAND FÜR MEDIZINISCHE TÄTIGKEITEN			
+							
+	Sozialleistungen und Vorsorge Inhaber/in Arztpraxis						
+	TOTAL SOZIALLEISTUNGEN UND VORSORGE INHABER/IN ARZTPRAXIS	Sozialleistungen und Vorsorge Inhaber Arztpraxis: AHV, IV, EO... / BVG (ordentliche Beiträge ("Arbeitgeberanteil") und Einkaufsbeiträge). Diese Variable betrifft nur Einzelunternehmen. Private Finanzierungen, wie die Beiträge der 3. Säule (Säule 3a), sind nicht Teil der Betriebsrechnung des Unternehmens.  					
+							
+	Sonstiger Aufwand			Sonstiger Aufwand			
+	Raum- und Mietaufwand	Mietzins inkl. Nebenkosten und Parkplatzmiete oder Mietwert Praxisräume im eigenen Haus (Marktwert), Mietwert Arbeitsraum in Privatwohnung, Strom, Gas, Wasser, Beleuchtungs- und Reinigungsmaterial, Unterhalt und Reparaturen Praxisräume.		Raum- und Mietaufwand	Mietzins inkl. Nebenkosten und Parkplatzmiete oder Mietwert Praxisräume im eigenen Haus (Marktwert), Mietwert Arbeitsraum in Privatwohnung, Strom, Gas, Wasser, Beleuchtungs- und Reinigungsmaterial, Unterhalt und Reparaturen Praxisräume.		
+	IT- und Verwaltungsaufwand (z.B. Telekommunikation, Software, Büromaterial)	Inklusive Beiträge an Berufsverbände und berufliche Fortbildung Beispiele: Büromaterial, Drucksachen, Porti, Telefon, Fax, Zeitschriften, Spenden, Blumen, Buchhaltungs- und Inkassospesen, Praxisessen, Repräsentationsspesen, Reisespesen (ohne eigenes Auto), Inserate, alle Verbands- und Sonderbeiträge, Kurse, Kongresse, Fachliteratur.		IT- und Verwaltungsaufwand (z.B. Telekommunikation, Software, Büromaterial)	Inklusive Beiträge an Berufsverbände und berufliche Fortbildung Beispiele: Büromaterial, Drucksachen, Porti, Telefon, Fax, Zeitschriften, Spenden, Blumen, Buchhaltungs- und Inkassospesen, Praxisessen, Repräsentationsspesen, Reisespesen (ohne eigenes Auto), Inserate, alle Verbands- und Sonderbeiträge, Kurse, Kongresse, Fachliteratur.		
+	Fahrzeugaufwand	Unterhalt, Steuern, Versicherungen, Abschreibungen auf Auto / Fahrzeug, Leasinggebühren (nur Praxisanteil).		Fahrzeugaufwand	Unterhalt, Steuern, Versicherungen, Abschreibungen auf Auto / Fahrzeug, Leasinggebühren (nur Praxisanteil).		
+	Kapitalaufwand	Schuldzinsen (ohne Hypothekarzinsen), Factoring, Bankspesen, Postscheckkontospesen, Kommission auf Betriebs- / Investitionskredit.		Kapitalaufwand	Schuldzinsen (ohne Hypothekarzinsen), Factoring, Bankspesen, Postscheckkontospesen, Kommission auf Betriebs- / Investitionskredit.		
+	Abschreibungen	Apparate, Instrumente, Mobiliar, Einrichtungen, Leasinggebühren ¦ ohne Fahrzeugaufwand.		Abschreibungen	Apparate, Instrumente, Mobiliar, Einrichtungen, Leasinggebühren ¦ ohne Fahrzeugaufwand.		
+	Praxisversicherungen	Berufshaftpflicht, Rechtsschutz usw.		Praxisversicherungen			
+	Übriger Aufwand	Alle Aufwände der Betriebsrechnung, die keiner der obigen Kategorien zugeordnet werden können. Insbesondere Aufwand für nicht ärztliche Tätigkeiten, welche über die Betriebsrechnung des Einzelunternehmens abgewickelt werden.		Übriger Aufwand	Alle Aufwände der Betriebsrechnung, die keiner der obigen Kategorien zugeordnet werden können. Insbesondere Aufwand für nicht ärztliche Tätigkeiten, welche über die Betriebsrechnung des Unternehmens abgewickelt werden.		
+	TOTAL SONSTIGER AUFWAND			TOTAL SONSTIGER AUFWAND			
+							
+	Total Aufwand			Total Aufwand			
+	TOTAL AUFWAND			TOTAL AUFWAND			
+							
+							
+	ERTRAG (aus Erfolgsrechnung)			ERTRAG (aus Erfolgsrechnung)			
+							
+	Ertrag aus Praxistätigkeit	(inkl. Hausbesuche etc.)		Ertrag aus Praxistätigkeit	(inkl. Hausbesuche etc.)		
+	Ertrag aus medizinischen Leistungen von Ärztinnen/Ärzten	Ertrag aus Tarmed und anderen ärztlichen Tarifen.		Ertrag aus medizinischen Leistungen von Ärztinnen/Ärzten	Ertrag aus Tarmed und anderen ärztlichen Tarifen.		
+	Ertrag aus Leistungen von nichtärztlichem Personal	Tarife "Paramed" wie. Physiotherapie oder nichtärztliche Psychotherapie.		Ertrag aus Leistungen von nichtärztlichem Personal	Tarife "Paramed" wie. Physiotherapie oder nichtärztliche Psychotherapie.		
+	Ertrag aus Laboranalysen			Ertrag aus Laboranalysen			
+	TOTAL ERTRAG AUS LEISTUNGEN			TOTAL ERTRAG AUS LEISTUNGEN			
+	Ertrag aus Medikamenten			Ertrag aus Medikamenten			
+	Ertrag aus Mittel und Gegenstände inkl. übriges Material			Ertrag aus Mittel und Gegenstände inkl. übriges Material			
+	TOTAL ERTRAG AUS MEDIKAMENTEN UND MATERIAL			TOTAL ERTRAG AUS MEDIKAMENTEN UND MATERIAL			
+	Übriger Ertrag aus Praxistätigkeit			Übriger Ertrag aus Praxistätigkeit			
+	TOTAL ERTRAG AUS PRAXISTÄTIGKEIT			TOTAL ERTRAG AUS PRAXISTÄTIGKEIT			
+							
+	Ertrag durch Ärztinnen/Ärzte ausserhalb der Praxis	(Insbesondere Belegarzttätigkeit)		Ertrag durch Ärztinnen/Ärzte ausserhalb der Praxis	(Insbesondere Belegarzttätigkeit)		
+	Ertrag aus Spitaltätigkeit			Ertrag aus Spitaltätigkeit			
+	Ertrag aus übrigen ärztlichen Dienstleistungen	Z.B. Schularzt, Gefängnisarzt, Vorträge zu medizinischen Themen.		Ertrag aus übrigen ärztlichen Dienstleistungen	Z.B. Schularzt, Gefängnisarzt, Vorträge zu medizinischen Themen.		
+	TOTAL ERTRAG DURCH ÄRZTINNEN/ÄRZTE AUSSERHALB DER PRAXIS			TOTAL ERTRAG VON ÄRZTINNEN/ÄRZTEN AUSSERHALB DER PRAXIS			
+							
+	Sonstiger Ertrag			Sonstiger Ertrag			
+	Miet- und Kapitalerträge			Miet- und Kapitalerträge			
+	Entschädigung für Verdienstausfall (ohne Inhaber/in Arztpraxis) (z.B. Militär, Mutterschaft)			Entschädigung für Verdienstausfall (z.B. Militär, Mutterschaft)			
+	Übriger sonstiger Ertrag	Alle Erträge der Betriebsrechnung, die keiner der obigen Kategorien zugeordnet werden können. Zum Beispiel Erträge aus Verwaltungsratsmandaten oder andere nicht ärztliche Tätigkeiten, welche über die Betriebsrechnung des Einzelunternehmens abgewickelt werden.		Übriger sonstiger Ertrag	Alle Erträge der Betriebsrechnung, die keiner der obigen Kategorien zugeordnet werden können. Zum Beispiel Erträge aus Verwaltungsratsmandaten oder andere nicht ärztliche Tätigkeiten, welche über die Betriebsrechnung des Unternehmens abgewickelt werden.		
+	TOTAL SONSTIGER ERTRAG			TOTAL SONSTIGER ERTRAG			
+							
+	Total Ertrag			Total Ertrag			
+	TOTAL ERTRAG			TOTAL ERTRAG			
+							
+							
+	ERGEBNIS			ERGEBNIS			
+							
+	Total Ergebnis	Entspricht "Unternehmerlohn"		Total Ergebnis	Ist das Betriebsergebnis des Unternehmens nachdem alle Aufwände verrechnet sind. Allfällige Gewinnausschüttungen an die Aktionäre haben nicht direkt etwas mit der Entlöhnung von Ärzten zu tun, auch wenn diese Aktionäre sind. 		
+	TOTAL	Total Ergebnis wird automatisch aus "Total Ertrag" minus "Total Aufwand" berechnet und kann nicht editiert werden.		TOTAL	Total Ergebnis wird automatisch aus "Total Ertrag" minus "Total Aufwand" berechnet und kann nicht editiert werden.		
+							
+					Erhebung MAS 2023 - 17. Oktober 2024 		
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+		 					
