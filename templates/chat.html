@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+    <title>KI-Chat</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h2>Willkommen beim KI-Bot</h2>
+    <form method="POST">
+        <input type="text" name="question" placeholder="Ihre Frage..." required>
+        <button type="submit">Absenden</button>
+    </form>
+    <p>{{ response }}</p>
+    <a href="/logout">Abmelden</a>
+</body>
+</html>
